@@ -1,0 +1,12 @@
+Name: Filet Mignon
+Description: 8-oz of our best cut marinated in special sauce.
+Price: $29.99
+Image: flietmignon.jpg
+Name: Baked Ziti
+Description: Ziti pasta blended with ricotta and mozzarella cheeses in our homemade sauce
+Price: $12.99
+Image: BackedZiti.jpg
+Name: Chicken Parmesan
+Description: Fried Chicken Cutlet, toped with our homemade sauce and mozzarella chesse
+Price: $15.99
+Image: ChickenParmesan.jpeg
